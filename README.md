@@ -1,2 +1,5 @@
 # hello-world
-My first hello to programming!
+
+Henlo my friendos!
+
+My name is Justyna and I am new to programming. Please take good care of me!
